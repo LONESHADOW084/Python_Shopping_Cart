@@ -78,5 +78,9 @@ class ShoppingCart:
             elif choice == "5":
                 print("Hey come back here! Security! We have a runner.")
 
+
             else:
                 print("Invalid. Please try again.")
+
+
+    shopping_cart_program()
